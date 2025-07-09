@@ -2,6 +2,6 @@ fastapi
 uvicorn
 requests
 python-dotenv
-tavily
+tavily-python
 mcp-ai
 mcp
