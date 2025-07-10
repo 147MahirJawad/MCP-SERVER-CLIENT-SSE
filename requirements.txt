@@ -1,0 +1,7 @@
+starlette
+tavily-python
+uvicorn
+asyncio
+python-dotenv
+mcp
+google-generativeai
